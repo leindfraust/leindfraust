@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ZeFer](https://zefer.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js and Nuxt.js**
+- 🌱 I’m currently learning **Next.js and Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://romel-zerna-portfolio.onrender.com/](https://romel-zerna-portfolio.onrender.com/)
 
